@@ -8,6 +8,7 @@ buildscript {
 }
 
 apply plugin: 'grain'
+apply plugin: 'idea'
 
 repositories {
   mavenCentral()
