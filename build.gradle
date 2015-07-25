@@ -15,6 +15,6 @@ repositories {
 }
 
 task grainInstall(type: com.sysgears.grain.gradle.GrainInstallTask) {
-  theme = 'template'
+  theme = 'freelancer'
   version = '0.4.2'
 }
